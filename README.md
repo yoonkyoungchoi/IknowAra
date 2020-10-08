@@ -14,12 +14,12 @@
  </p>
  <img src="https://user-images.githubusercontent.com/48753868/95337663-0c34f280-08ed-11eb-958b-84815ff59bcb.jpg" height="300" align="left">
  <p align='center'>
-  <h3>╔═══════════════*.·:·.☽✧    ✦    ✧☾.·:·.*═══════════════╗</h3>
+  <h3>╔═══════════════*.·:·.☽✧    ✦    ✧☾.·:·.*═══════════════╗</h3><br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💕&nbsp;Hi, I'm Ara Kim<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👩‍💻&nbsp;I'm a web&app developer in South Korea<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏫&nbsp;I'm attending Mirim Information Science Highschool<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🍀&nbsp;Challenging to daily commit. . .<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📧&nbsp;Please contact me by email <a href="mailto:s2019w06@e-mirim.hs.kr">here</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📧&nbsp;Please contact me by email <a href="mailto:s2019w06@e-mirim.hs.kr">here</a><br>
   <h3>╚═══════════════*.·:·.☽✧    ✦    ✧☾.·:·.*═══════════════╝</h3>
   <a href="https://www.facebook.com/profile.php?id=100034567932008" target="_blank"><img height="30" src="https://user-images.githubusercontent.com/48753868/95327491-194ae500-08df-11eb-8df6-9bd701fa15c0.png?raw=true"></a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/orzr_arar/" target="_blank"><img height="30" src="https://user-images.githubusercontent.com/48753868/95327495-1a7c1200-08df-11eb-80a3-9a7d88155a48.png?raw=true"></a>&nbsp;&nbsp;
