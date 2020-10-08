@@ -21,11 +21,11 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🍀&nbsp;&nbsp;&nbsp;𝐶ℎ𝑎𝑙𝑙𝑒𝑛𝑔𝑖𝑛𝑔 𝑡𝑜 𝑑𝑎𝑖𝑙𝑦 𝑐𝑜𝑚𝑚𝑖𝑡. . .<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📧&nbsp;&nbsp;&nbsp;𝑃𝑙𝑒𝑎𝑠𝑒 𝑐𝑜𝑛𝑡𝑎𝑐𝑡 𝑚𝑒 𝑏𝑦 𝑒𝑚𝑎𝑖𝑙 <a href="mailto:s2019w06@e-mirim.hs.kr">ℎ𝑒𝑟𝑒</a><br>
   <h3>╚═══════════════*.·:·.☽✧    ✦    ✧☾.·:·.*═══════════════╝</h3>
-  <a href="https://www.facebook.com/profile.php?id=100034567932008" target="_blank"><img height="30" src="https://user-images.githubusercontent.com/48753868/95327491-194ae500-08df-11eb-8df6-9bd701fa15c0.png?raw=true"></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/orzr_arar/" target="_blank"><img height="30" src="https://user-images.githubusercontent.com/48753868/95327495-1a7c1200-08df-11eb-80a3-9a7d88155a48.png?raw=true"></a>&nbsp;&nbsp;
-  <a href="https://twitter.com/ara_know" target="_blank"><img height="30" src="https://user-images.githubusercontent.com/48753868/95404937-5b147380-0951-11eb-8f49-a9933968cf22.png?raw=true"></a>&nbsp;&nbsp;
-  <a href="https://blog.naver.com/ala0327" target="_blank"><img height="30" src="https://user-images.githubusercontent.com/48753868/95404741-d164a600-0950-11eb-9ebe-57372bfb316b.png?raw=true"></a>&nbsp;&nbsp;
-  <a href="https://dev.to/iknowara" target="_blank"><img height="30" src="https://user-images.githubusercontent.com/48753868/95327483-17812180-08df-11eb-85a7-71593bce2ce0.png?raw=true"></a>
+  <a href="https://www.facebook.com/profile.php?id=100034567932008" target="_blank"><img height="40" src="https://user-images.githubusercontent.com/48753868/95327491-194ae500-08df-11eb-8df6-9bd701fa15c0.png?raw=true"></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/orzr_arar/" target="_blank"><img height="40" src="https://user-images.githubusercontent.com/48753868/95327495-1a7c1200-08df-11eb-80a3-9a7d88155a48.png?raw=true"></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/ara_know" target="_blank"><img height="40" src="https://user-images.githubusercontent.com/48753868/95404937-5b147380-0951-11eb-8f49-a9933968cf22.png?raw=true"></a>&nbsp;&nbsp;
+  <a href="https://blog.naver.com/ala0327" target="_blank"><img height="40" src="https://user-images.githubusercontent.com/48753868/95404741-d164a600-0950-11eb-9ebe-57372bfb316b.png?raw=true"></a>&nbsp;&nbsp;
+  <a href="https://dev.to/iknowara" target="_blank"><img height="40" src="https://user-images.githubusercontent.com/48753868/95327483-17812180-08df-11eb-85a7-71593bce2ce0.png?raw=true"></a>
 </p>
 
 
